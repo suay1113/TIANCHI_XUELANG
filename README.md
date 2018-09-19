@@ -32,7 +32,7 @@
  3.测试集地址为 ./data/test_b_edit  ./data/test_b_edit1 ./data/test_b_edit2。 索引地址为 ./data/test_b.csv  ./data/test_b_edit.csv
 
 ### predict
- 0.请在百度云下载训练过的权重，地址:[百度云](),密码:
+ 0.请在百度云下载训练过的权重，地址:[百度云](https://pan.baidu.com/s/1QG8xXBdr3wbguiy_eeuVdg)
  1.用sh运行densenet201.py文件，此操作将自动在根文件夹中生成 results_tmp，保存过程文件
  
  2.预测将运行6次，调用了同为densenet201网络的 **两个不同训练epochs**的模型，在3个测试集上进行测试。
