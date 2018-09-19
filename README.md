@@ -19,8 +19,9 @@
 
 ## 项目结构
 ### 脚本运行方式
-将官网的xuelang_round2_test_b_201808031.zip.zip 文件，解压后修改名称为‘test_b’，放在./data目录下，将下载好的训练模型放在./models文件夹中，
-运行run.sh文件，将生成./result.csv文件，为最终结果。如果运行失败，请参照以下具体步骤，寻找错误原因
+- 将官网的xuelang_round2_test_b_201808031.zip.zip 文件，解压后修改名称为‘test_b’，放在./data目录下
+- 将下载好的训练模型放在./models文件夹中，
+- 运行run.sh文件，将生成./result.csv文件，为最终结果。如果运行失败，请参照以下具体步骤，寻找错误原因
 ### 预处理
  0.获取测试集索引csv，见 ./data/test_b.csv
  
