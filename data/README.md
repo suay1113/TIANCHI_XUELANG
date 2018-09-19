@@ -22,7 +22,7 @@
 [xuelang_round1_answer_b_20180808.zip](http://aliyuntianchiresult.cn-hangzhou.oss.aliyun-inc.com/file/race/documents/231666/xuelang_round1_answer_b_20180808.zip?Expires=1537419632&OSSAccessKeyId=2zep9f8tkzg6ennfl26ciifi&Signature=HCDla8%2BSci4VpUdQuiCXihViHlA%3D&response-content-disposition=attachment%3B%20)
 
 
-复赛(复赛训练集使用初赛全部数据，包括测试数据)
+复赛(复赛训练集使用初赛全部数据，包括初赛的测试数据，答案见上面两个文件)
 
 [xuelang_round2_test_a_20180809.zip](http://aliyuntianchiresult.cn-hangzhou.oss.aliyun-inc.com/file/race/documents/231666/%5Bnew%5D%20xuelang_round2_test_a_20180809.zip?Expires=1537419807&OSSAccessKeyId=2zep9f8tkzg6ennfl26ciifi&Signature=UoBepCh1pO5K9Fmav2P%2F77gFnNQ%3D&response-content-disposition=attachment%3B%20)
 
