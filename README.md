@@ -13,6 +13,13 @@
 - 比赛采用了测试增强（Test set augmentation），对于测试集预测三次（1+2），获得了0.0123的分数提升
 - 比赛引入了初赛二分类的辅助信息，将初赛的normal置信度与复赛12分类结果进行了基于规则的融合，获得了0.0290的提升
 
+## python环境配置
+- python 3.5
+- tensorflow 1.4.0
+- cuda 8.0 cudnn6.0（兼容cuda9.0）
+- keras 2.1.4
+- 其他数据挖掘必备包，均为默认版本，包括pandas, opencv-python, numpy, tqdm等
+
 ## 项目结构
 ### 脚本运行方式
 - 将官网的xuelang_round2_test_b_201808031.zip.zip 文件，解压后修改名称为‘test_b’，放在./data目录下
